@@ -5,5 +5,5 @@ Soy un Ingeniero en computacion con 1+ de experiencia en lenguajes como c#, java
 # Sistema de facturación. -- En desarrollo.
 
 También puedes encontrarme en:
-* [Linkedin]([https://www.linkedin.com/in/yahir-antonio-diaz-coronado-031683200/](https://www.linkedin.com/in/yahir-d-031683200))
+* [Linkedin](https://www.linkedin.com/in/yahir-d-031683200/)
 
