@@ -1,3 +1,5 @@
+![Banner del proyecto](https://res.cloudinary.com/dnrvofnjf/image/upload/v1748526861/banner_programacion.png)
+
 ### Saludos 👋
 
 +1 año de experiencia en soporte y desarrollo de un sistema web ERP, bajo la metodología de SCRUM. He
