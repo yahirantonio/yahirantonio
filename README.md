@@ -10,6 +10,6 @@ Actualmente tengo un nivel de inglés B1, lo cual me permite leer documentación
 # Sistema de facturación. -- En desarrollo.
 
 También puedes encontrarme en:
-* [Linkedin](www.linkedin.com/in/yahirdz)
+* [Linkedin](https://www.linkedin.com/in/yahirdz/)
 * [Youtube](https://www.youtube.com/@diseño_inteligente)
 
