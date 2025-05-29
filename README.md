@@ -1,6 +1,12 @@
 ![Banner del proyecto](https://res.cloudinary.com/dnrvofnjf/image/upload/v1748526861/banner_programacion.png)
 
-### Saludos 👋
+# 👋 ¡Hola! Soy Yahir Diaz
+
+Soy desarrollador web con experiencia en **Full Stack**. Me especializo en construir aplicaciones funcionales, rápidas y bien estructuradas, desde la interfaz hasta la lógica del servidor.
+
+--- 
+
+## 💼 Mi Experiencia
 
 +1 año de experiencia en soporte y desarrollo de un sistema web ERP, bajo la metodología de SCRUM. He
 creado APIs, módulos responsive y funcionalidades para sistemas internos usando tecnologías como Vue,
@@ -9,7 +15,30 @@ necesidades del proyecto.
 
 Actualmente tengo un nivel de inglés B1, lo cual me permite leer documentación técnica sin problema, ademas he estado desarrollando una aplicación de facturación en linea, por lo que tengo mis habilidades de programación en constante desarrollo sobre todo en tecnologías como Nodejs y React con Typescript.
 
-También puedes encontrarme en:
+---
+
+## 🛠️ Tecnologías que uso
+
+- JavaScript / TypeScript
+- React / NodeJS / Express
+- HTML / CSS / Tailwind / Material UI
+- PostgreSQL / APIs REST / TypeOR
+- Diseño responsivo y prototipado en Figma
+
+## 🚀 ¿Qué hago?
+
+🎯 Desarrollo sitios web y apps modernas  
+📚 Comparto contenido educativo sobre desarrollo web  
+🛠️ Construyo proyectos propios y colaborativos
+
+---
+
+## 📺 Encuéntrame en redes
+
 * [Linkedin](https://www.linkedin.com/in/yahirdz/)
 * [Youtube](https://www.youtube.com/@diseño_inteligente)
 
+---
+
+
+Gracias por pasar por aquí 🙌
