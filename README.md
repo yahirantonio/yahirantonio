@@ -7,8 +7,6 @@ necesidades del proyecto.
 
 Actualmente tengo un nivel de inglés B1, lo cual me permite leer documentación técnica sin problema, ademas he estado desarrollando una aplicación de facturación en linea, por lo que tengo mis habilidades de programación en constante desarrollo sobre todo en tecnologías como Nodejs y React con Typescript.
 
-# Sistema de facturación. -- En desarrollo.
-
 También puedes encontrarme en:
 * [Linkedin](https://www.linkedin.com/in/yahirdz/)
 * [Youtube](https://www.youtube.com/@diseño_inteligente)
