@@ -8,7 +8,7 @@ Soy desarrollador web con experiencia en **Full Stack**. Me especializo en const
 
 ## 💼 Mi Experiencia
 
-Terminé mis estudios universitarios en Ingeniería en Computación en 2022. Desde entonces, he trabajado en proyectos variados, tanto propios como para empresas. He trabajado en empresas del sector hotelero desarrollando módulos y creando páginas web con enfoque mobile first. Durante mi experiencia, implementé APIs y funcionalidades para sistemas internos, adaptándome rápidamente a nuevas tecnologías según las necesidades de cada proyecto. 
+Terminé mis estudios universitarios en Ingeniería en Computación en 2022. He trabajado en empresas del sector hotelero desarrollando módulos y creando páginas web con enfoque mobile first. Durante mi experiencia, implementé APIs y funcionalidades para sistemas internos, adaptándome rápidamente a nuevas tecnologías según las necesidades de cada proyecto. 
 
 Actualmente, estoy desarrollando un sistema de facturación en línea que facilite la facturación para pequeñas y medianas empresas.
 
