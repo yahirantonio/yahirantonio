@@ -21,7 +21,7 @@ Actualmente tengo un nivel de inglés B1, lo cual me permite leer documentación
 
 - JavaScript / TypeScript
 - React / NodeJS / Express
-- HTML / CSS / Tailwind / Material UI
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) / CSS / Tailwind / Material UI
 - PostgreSQL / APIs REST / TypeOR
 - Diseño responsivo y prototipado en Figma
 
